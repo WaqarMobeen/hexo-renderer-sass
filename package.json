@@ -21,10 +21,10 @@
     "test-cov": "istanbul cover --print both _mocha -- test/index.js"
   },
   "engines": {
-    "node": ">= 6"
+    "node": ">= 16"
   },
   "dependencies": {
-    "node-sass": "^4.5.3"
+    "node-sass": "^6.0.1"
   },
   "peerDependencies": {
     "hexo": ">= 3"
